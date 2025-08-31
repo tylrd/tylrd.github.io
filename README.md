@@ -6,6 +6,14 @@ This project is built using [mdBook](https://github.com/rust-lang/mdBook).
 
 ## Building
 
+Install mdBook by running the following command:
+
+```bash
+brew install mdbook
+```
+
+Or download the latest release from the [releases page](https://github.com/rust-lang/mdBook/releases).
+
 To build the website, run the following command:
 
 ```bash
